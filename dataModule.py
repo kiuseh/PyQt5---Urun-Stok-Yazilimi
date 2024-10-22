@@ -1,0 +1,3 @@
+urunAdi = ""
+miktari = ""
+aciklama = ""
